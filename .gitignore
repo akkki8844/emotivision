@@ -1,7 +1,4 @@
 node_modules
 dist
-public/models/*.onnx
-public/mediapipe
-public/ort
 *.log
 .impeccable
